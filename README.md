@@ -1,2 +1,2 @@
 # ThreatFusionAI
-A project to change Traditional method of AI + CSF integration
+A project to change traditional method of AI + CSF integration
