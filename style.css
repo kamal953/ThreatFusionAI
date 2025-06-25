@@ -1,0 +1,54 @@
+
+
+body, .stApp {
+    background: linear-gradient(115deg, #004ff9, #000000);
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* heading */
+.stApp h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+}
+
+/* uploader */
+.stFileUploader label {
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+
+/* buttons */
+.stButton {
+    
+    color: #000000;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-top: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+
+.stMarkdown {
+    font-size: 2rem;
+    line-height: 1.6;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+/* table */
+.stDataFrame {
+    border: 1px solid #fd70d3;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+/* message */
+.stAlert {
+    background-color: #ffcccc;
+    color: #a10000;
+    font-weight: bold;
+}
